@@ -2,7 +2,7 @@
 
 **High-End Luxury E-Commerce Platform (MERN Stack)**  
 
-[Live Demo](https://luxemarket.netlify.app/) | [GitHub Repository](https://github.com/yourusername/luxe-market)
+[Live Demo](https://luxemarket.netlify.app/) | [Portfolio](https://ibtissem-bessrour.netlify.app/)
 
 ---
 
@@ -46,9 +46,11 @@ It allows users to browse, select, and purchase products securely while providin
 
 | Homepage | Products Page |
 |----------|---------------|
-| ![Homepage](https://raw.githubusercontent.com/yourusername/luxe-market/main/screenshots/luxe-home.png) | ![Products](https://raw.githubusercontent.com/yourusername/luxe-market/main/screenshots/luxe-products.png) |
+| ![Homepage](   <img width="1896" height="808" alt="luxe" src="https://github.com/user-attachments/assets/40a0b9a8-c324-4756-9194-7d2c87edac25" />
+) | ![Products](    <img width="1872" height="906" alt="luxe-all-product" src="https://github.com/user-attachments/assets/39516ea9-7c6b-47d1-adc4-c1a20c6f9585" />
+  ) |
 
----
+
 
 ## Future Improvements
 
